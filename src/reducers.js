@@ -15,7 +15,7 @@ import {
   TOGGLE_TODO,
   SET_VISIBILITY_FILTER,
   VisibilityFilters
-} from '../actions';
+} from './actions';
 
 // Object destructuring
 // e.g
